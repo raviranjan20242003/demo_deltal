@@ -1,2 +1,2 @@
 # demo_deltal
-git and giy hub
+git and giy hub.
