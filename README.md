@@ -1,2 +1,5 @@
 # demo_deltal
-git and giy hub.
+git and git hub.
+
+# teacher
+shardha khapra
